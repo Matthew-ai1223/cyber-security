@@ -1,0 +1,4 @@
+2025-09-11 23:05:31,230 - web_gui - ERROR - Tool vulnerability_scanner error: VulnerabilityScanner.scan() got an unexpected keyword argument 'output_callback'
+2025-09-11 23:07:09,686 - web_gui - ERROR - Tool vulnerability_scanner error: VulnerabilityScanner.scan() got an unexpected keyword argument 'output_callback'
+2025-09-11 23:09:59,573 - web_gui - ERROR - Tool wifi_tools error: WiFiTools.scan() got an unexpected keyword argument 'output_callback'
+2025-09-11 23:10:01,028 - web_gui - ERROR - Tool wifi_tools error: WiFiTools.scan() got an unexpected keyword argument 'output_callback'

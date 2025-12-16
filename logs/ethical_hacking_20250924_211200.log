@@ -1,0 +1,4 @@
+2025-09-24 21:34:29,606 - web_gui - ERROR - Tool keylogger error: Keylogger.start() got an unexpected keyword argument 'output_callback'
+2025-09-24 21:34:31,214 - web_gui - ERROR - Tool keylogger error: Keylogger.start() got an unexpected keyword argument 'output_callback'
+2025-09-24 21:51:27,425 - web_gui - ERROR - Tool keylogger error: Keylogger.start() got an unexpected keyword argument 'output_callback'
+2025-09-24 21:53:14,443 - web_gui - ERROR - Tool exploitation_scripts error: ExploitationTester.test() got an unexpected keyword argument 'output_callback'

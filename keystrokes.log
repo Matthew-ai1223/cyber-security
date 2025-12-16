@@ -1,0 +1,35 @@
+KEYLOGGER SESSION STARTED: 2025-09-11T22:43:22.073578
+TIMEOUT: 60 seconds
+CONFIG: screenshots=False, mouse=False, processes=False
+--------------------------------------------------
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:30.530707", "key": "space", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:30.733304", "key": "space", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:32.129228", "key": "backspace", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:32.283765", "key": "backspace", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:44.881075", "key": "space", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:45.086870", "key": "space", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:46.787233", "key": "backspace", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:43:46.923858", "key": "backspace", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:04.506154", "key": "c", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:04.806406", "key": "c", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:07.365499", "key": "backspace", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:07.519893", "key": "backspace", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:08.931878", "key": "ctrl_l", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:09.442241", "key": "ctrl_l", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:09.472604", "key": "ctrl_l", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:09.488249", "key": "\u0013", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:09.650938", "key": "\u0013", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:09.933430", "key": "ctrl_l", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:13.218332", "key": "ctrl_l", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:13.600178", "key": "\u0013", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:13.819266", "key": "\u0013", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:13.819266", "key": "ctrl_l", "action": "release"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:16.506230", "key": "c", "action": "press"}
+KEYSTROKE: {"timestamp": "2025-09-11T22:44:16.776296", "key": "c", "action": "release"}
+--------------------------------------------------
+KEYLOGGER SESSION ENDED: 2025-09-11T22:44:22.151684
+DURATION: 60.08 seconds
+TOTAL KEYSTROKES: 13
+TOTAL MOUSE CLICKS: 0
+TOTAL SCREENSHOTS: 0
+KEYSTROKES PER SECOND: 0.22

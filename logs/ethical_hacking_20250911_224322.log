@@ -1,0 +1,4 @@
+2025-09-11 22:43:22,034 - ethical_hacking - INFO - Ethical Hacking Tools Suite started
+2025-09-11 22:43:22,045 - ethical_hacking - WARNING - Starting keylogger for ethical testing purposes only
+2025-09-11 22:43:22,105 - keylogger - WARNING - SECURITY_EVENT: keylogger_started on system - Result: Output: keystrokes.log, Timeout: 60s
+2025-09-11 22:44:22,151 - ethical_hacking - INFO - Ethical Hacking Tools Suite finished

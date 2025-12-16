@@ -1,0 +1,32 @@
+# Ethical Hacking Tools Suite - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core networking and security libraries
+scapy>=2.4.5
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+cryptography>=3.4.8
+
+# Password cracking and hashing
+bcrypt>=4.0.0
+passlib>=1.7.4
+argon2-cffi>=21.3.0
+
+# Keylogging and system interaction
+pynput>=1.7.6
+keyboard>=0.13.5
+
+# Network analysis and packet manipulation
+# netifaces>=0.11.0  # Commented out - requires Visual C++ Build Tools on Windows
+psutil>=5.9.0
+
+# Web scraping and HTTP testing
+selenium>=4.8.0
+urllib3>=1.26.0
+
+# Database connectivity for SQL injection testing
+pymysql>=1.0.2
+
+# Web GUI dependencies
+flask>=2.3.0
+flask-cors>=4.0.0

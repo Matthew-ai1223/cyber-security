@@ -1,0 +1,1 @@
+2025-09-11 23:21:21,242 - web_gui - ERROR - Tool keylogger error: Keylogger.start() got an unexpected keyword argument 'output_callback'
