@@ -42,7 +42,7 @@ def check_dependencies():
 
 def create_directories():
     """Create necessary directories"""
-    directories = ['static/css', 'static/js', 'templates', 'logs']
+    directories = ['frontend/static/css', 'frontend/static/js', 'frontend', 'logs']
     
     for directory in directories:
         Path(directory).mkdir(parents=True, exist_ok=True)

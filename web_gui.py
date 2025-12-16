@@ -33,7 +33,15 @@ from ethical_hacking_tools.exploitation_scripts import ExploitationTester
 from ethical_hacking_tools.wifi_tools import WiFiTools
 from ethical_hacking_tools.utils.logger import setup_logger
 
-app = Flask(__name__)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Serve frontend assets from the new frontend/ folder
+app = Flask(
+    __name__,
+    template_folder=os.path.join(BASE_DIR, "frontend"),
+    static_folder=os.path.join(BASE_DIR, "frontend", "static"),
+    static_url_path="/static"
+)
 CORS(app)
 
 # Security configuration
