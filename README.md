@@ -314,5 +314,4 @@ For questions or issues:
 ---
 
 **Remember: With great power comes great responsibility. Use these tools ethically and legally.**
-#   c y b e r - s e c u r i t y  
  
